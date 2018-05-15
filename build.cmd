@@ -1,0 +1,1 @@
+clang setime.c -luser32 -limm32 -osetime.exe
